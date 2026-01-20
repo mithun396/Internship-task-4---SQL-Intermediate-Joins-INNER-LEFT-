@@ -1,0 +1,11 @@
+order_id,order_date,customer_name,region,order_amount
+101,2023-02-01,Amit Sharma,India,1500
+102,2023-02-10,Priya Verma,India,2300
+103,2023-02-15,John Smith,USA,4500
+104,2023-03-01,Amit Sharma,India,3200
+105,2023-03-12,Emma Wilson,UK,2700
+106,2023-03-20,Sophia Garcia,USA,3900
+107,2023-04-05,John Smith,USA,5100
+108,2023-04-20,Olivia Martin,France,1800
+109,2023-05-02,Priya Verma,India,2600
+110,2023-05-15,Ava Taylor,Germany,4200
