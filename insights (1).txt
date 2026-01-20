@@ -1,0 +1,7 @@
+1. Customers from the USA contribute the highest overall revenue among all regions.
+
+2. Three customers (Liam Brown, Noah Johnson, and Ethan Lee) have never placed an order, indicating
+   strong potential for re-engagement marketing campaigns.
+
+3. Repeat customers such as Amit Sharma and John Smith generate higher lifetime value compared to
+   single-order customers.
